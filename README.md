@@ -1,2 +1,1 @@
-# prometheus
-quay.io/prometheus/prometheus:v2.34.0
+quay.io/prometheus/prometheus:v2.32.1
